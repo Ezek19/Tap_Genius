@@ -1,0 +1,315 @@
+.filter{
+float:left;
+}
+.filter_by{
+diplay:block;
+width:200px;
+height:10px;
+background:#1ba89d;	
+font-family:Arial, Helvetica, sans-serif;
+font-weight:bold;
+color:#fff;
+margin:5px;
+padding:10px 0 15px 15px;
+}
+.check{
+margin:5px 0 0 25px;	
+}
+.check_box{
+font-family:Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#999;
+}
+.check_box h4{
+font-size:13px;
+color:#1ba89d;
+}
+.sort{
+float:left;	
+}
+.sort_header{
+diplay:block;
+width:704px;
+height:10px;
+background:#1ba89d;	
+font-family:Arial, Helvetica, sans-serif;
+font-weight:bold;
+color:#fff;
+margin:5px 0 0 10px;
+padding:10px 0 15px 15px;	
+}
+.left_sort{
+float:left;
+width:300px;	
+}
+.window{
+float:left;
+margin:0 5px;
+}
+.hbar{
+float:left;
+margin:0 5px;
+}
+.line{
+float:left;
+}
+.position{
+float:left;
+margin:0 5px 10px 5px;
+}
+.arrow{
+float:left;
+margin:0 5px;	
+}
+.sort_by{
+margin:0 5px;
+float:left;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FFF;
+}
+.show{
+float:right;
+}
+.show_text{
+margin:0 5px;
+float:left;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FFF;	
+}
+.perpage{
+margin:0 5px;
+float:left;	
+}
+.perpage_text{
+margin:0 5px;
+float:left;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FFF;		
+}
+.cart{
+width:710px;
+float:right;	
+}
+.cart_block{
+float:left;
+display:block;
+width:210px;
+height:400px;
+}
+.cart_pic{
+float:left;
+margin:5px 0 0 10px;
+}
+.cart_title{
+margin:0 5px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+color:#999;
+}
+.cart_price{
+float:left;
+display:block;
+width:50px;
+margin:5px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:18px;
+color:#1ba89d;	
+}
+.addtocart{
+float:right;
+display:block;
+width:90px;
+margin:5px 5px 0 0;
+}
+.cart_wishlist{
+float:left;
+display:block;
+width:198px;
+height:25px;
+background:#b6b5b5;	
+margin:10px 0 0 8px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#fff;	
+padding:10px 0 0 0;
+text-decoration:none;
+}
+.cart_compare{
+float:left;
+display:block;
+width:100px;
+height:25px;
+background:#b6b5b5;	
+margin:10px 0 0 0;
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#fff;	
+padding:1px 0 0 0;	
+}
+.conn_text{
+float:left;
+width:50%;
+margin:15px 0 25px 20px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+color:#828282;		
+}
+.conn_text2{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#828282;		
+}
+.conn_text h1{
+font-family:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#09a79d;	
+}
+.conn_text2 h3{
+font-family:Arial, Helvetica, sans-serif;
+font-size:18px;
+color:#09a79d;	
+}
+.conn_image{
+float:right;
+margin:55px 70px 25px 5px;
+}
+.recite{
+float:left;
+width:30%;
+margin:5px;
+}
+
+.recite_pic{
+margin:45px 100px 25px 100px;		
+}
+.recite_text{
+margin:15px 0 80px 20px;	
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+color:#828282;	
+text-align:justify;
+}
+.recite_text h2{
+margin:5px 0 15px 20px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#09a79d;	
+}
+.storytell{
+float:left;
+width:30%;
+margin:5px 27px 5px 27px;
+}
+.storytell_pic{
+margin:45px 100px 25px 100px;		
+}
+.storytell_text{
+margin:15px 0 80px 20px;	
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+color:#828282;	
+text-align:justify;
+}
+.storytell_text h2{
+margin:5px 0 15px 20px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#09a79d;	
+}
+.interact{
+float:left;
+width:30%;
+margin:5px
+}
+.interact_pic{
+margin:45px 100px 25px 100px;		
+}
+.interact_text{
+margin:15px 0 80px 20px;	
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+color:#828282;	
+text-align:justify;
+}
+.interact_text h2{
+margin:5px 0 15px 20px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#09a79d;	
+}
+.about_content{
+margin:15px 0 15px 65px;
+}
+.about_block{
+float:left;
+margin:15px 0 15px 0;
+}
+.about_pic{
+float:left;
+margin:15px 24px;
+}
+.about_text{
+margin: 0 auto;	
+width:100%;
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+color:#828282;
+}
+.about_text h2{
+font-family:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#09a79d;
+}
+.about_pic h2{
+font-family:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#09a79d;	
+}
+.about_suhaim{
+	
+}
+.about_suhaim h2{
+
+}
+.about_suhaim1{
+	margin:0 2px;
+}
+.about_suleft{	
+	float:left;
+	padding:16px 30px;
+	margin:1px 2px 2px 2px;
+	display:block;
+	width:410px;
+	background:#dbdada;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+}
+.about_suright{
+	float:left;
+	margin:1px 0 0 1px;
+}
+.aboutsu_pic{
+	margin:5px 2px 0 2px;
+	float:left;
+}
+.aboutsu_text{
+	float:left;
+	padding:28px 60px;
+	margin:5px 2px 2px 2px;
+	display:block;
+	width:527px;
+	background:#dbdada;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+}
+.about_suhaim4{
+	float:left;
+	padding:28px 60px;
+	margin:5px 2px 2px 2px;	
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#666;
+}

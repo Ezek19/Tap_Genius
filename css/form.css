@@ -1,0 +1,183 @@
+.box {
+width:150px;	
+}
+.box1 {
+width:200px;	
+}
+.cform{
+margin:15px 0 35px 35px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#828282;
+}
+.left_cform{
+float:left;	
+width:50%;
+margin:0 0 35px 0;
+}
+.left_cform h2{
+font-family:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#09a79d;	
+}
+.left_block{
+float:left;
+margin:5px;	
+}
+.left_my{
+float:left;	
+margin:5px;
+}
+.left_sg{
+float:left;	
+}
+.right_cform{
+float:left;
+margin:10px;	
+}
+.right_cform h2{
+font-family:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#09a79d;	
+}
+
+.form{
+margin:15px 0 35px 15px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#828282;
+}
+.form h1{
+font-family:Arial, Helvetica, sans-serif;
+font-size:28px;
+color:#42c2cc;
+}
+.reg_form{
+float:left;	
+width:46%;
+padding:10px;
+margin:0 0 45px 0;
+background:#F0F0F0;
+}
+.reg_form h2{
+font-family:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#828282;	
+}
+.login_form{
+float:left;	
+width:46%;
+padding:10px;
+margin:0 0 0 20px;	
+background:#F0F0F0;
+}
+.login_form h2{
+font-family:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#828282;	
+}
+.shipp{
+float:left;	
+width:53%;
+padding:10px;
+margin:0 0 45px 0;
+background:#F0F0F0;
+}
+.shipp h2{
+font-family:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#828282;	
+}
+.cart_items{
+float:right;	
+width:39%;
+padding:10px;
+margin:0 15px 0 10px;	
+background:#F0F0F0;
+}
+.upper_block{
+float:left;	
+}
+
+.item_block1{
+float:left;
+}
+.cart_text{
+float:left;
+}
+.cart_edit{
+margin:22px 0 0 210px;
+float:right;
+color:#C60;
+}
+.item_block2{
+float:left;	
+}
+.item_block3{
+float:left;	
+}
+.product_name{
+float:left;	
+margin-right:65px;
+}
+.product_price{
+float:right;	
+margin-left:65px;
+}
+.down_block{
+float:left;	
+margin:5px auto 10px;
+padding:15px;
+background:#F7F7F7;
+width:auto;
+}
+.cart_total{
+float:left;
+}
+.item_total{
+float:left;	
+margin-left:158px;
+}
+.item_price{
+float:right;
+margin-left:2px
+}
+.shipping_block{
+float:left;	
+margin-top:5px;
+}
+.shipping_text{
+float:left;	
+margin-left:215px;	
+}
+.shipping_price{
+float:right;
+margin-left:2px;
+}
+.tax_block{
+float:left;	
+margin-top:5px;
+}
+.sales_tax{
+float:left;		
+margin-left:213px;
+}
+.tax_price{
+float:right;	
+margin-left:2px;
+}
+.total_block{
+float:left;	
+margin-top:5px;
+}
+.total_text{
+float:left;		
+margin-left:142px;
+font-size:18px;
+}
+.total_price{
+float:right;	
+margin-left:2px;
+font-size:18px;
+color:#006633;
+}
